@@ -1,0 +1,8 @@
+D:\Programing\Games\ConsolePingPong\bin\Debug\ConsolePingPong.exe.config
+D:\Programing\Games\ConsolePingPong\bin\Debug\ConsolePingPong.exe
+D:\Programing\Games\ConsolePingPong\bin\Debug\ConsolePingPong.pdb
+D:\Programing\Games\ConsolePingPong\obj\Debug\ConsolePingPong.csproj.AssemblyReference.cache
+D:\Programing\Games\ConsolePingPong\obj\Debug\ConsolePingPong.csproj.SuggestedBindingRedirects.cache
+D:\Programing\Games\ConsolePingPong\obj\Debug\ConsolePingPong.csproj.CoreCompileInputs.cache
+D:\Programing\Games\ConsolePingPong\obj\Debug\ConsolePingPong.exe
+D:\Programing\Games\ConsolePingPong\obj\Debug\ConsolePingPong.pdb
